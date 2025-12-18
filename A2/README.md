@@ -20,7 +20,7 @@ Questions are on:
 </p>
 <p align="center"><b>Figure 2:</b> Most informative words for class 0 and class 1 respectively after removing stop-words and stemming.</p>
 
-<img src="./images/Q1.8.png" width="400" alt="Confusion Matrix for Naive Bayes Classifier">
+<p align="center"><img src="./images/Q1.8.png" width="400" alt="Confusion Matrix for Naive Bayes Classifier"> </p>
 <p align="center"><b>Figure 3:</b> Confusion Matrix for Naive Bayes Classifier</p>
 
 ### Image Classiﬁcation using SVM
